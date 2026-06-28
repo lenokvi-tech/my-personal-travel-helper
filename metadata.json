@@ -1,0 +1,6 @@
+{
+  "name": "My Personal Travel Helper",
+  "description": "Add dream destinations and instantly get suggestions for the most affordable flights, hotels, optimal times to visit, and best tours powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
